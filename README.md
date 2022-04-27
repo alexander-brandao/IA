@@ -15,7 +15,7 @@ Search a potential solution to a problem and check its immediate neighbors in th
 
 ### The 7-Eleven problem 
 A customer walked into a 7-11 store and decided
-to buy four items. When he brought his items
+to buy some items. When he brought his items
 to the check-out counter, the cashier rang in
 the purchases and told the customer that the cost was $7.11.
 The customer was curious that the cost of his
@@ -26,7 +26,7 @@ of the four individual items. The customer protested!
 He insisted that the four prices should have been added, not multiplied.
 The clerk said that it was okay with him, but, that the total was still the same: exactly $7.11.
 
-What were the prices of the four items? 
+What were the prices of the items? 
 
 ## Simulated Annealing
 Probabilistic technique for approximating the global optimum of a given function. Specifically, it is a metaheuristic to approximate global optimization in a large search space for an optimization problem. 
