@@ -13,6 +13,21 @@ Is a **Searching algorithm** for traversing or searching tree or graph data stru
 ## Tabu search
 Search a potential solution to a problem and check its immediate neighbors in the hope of finding an improved solution. Have a tendency to become stuck in suboptimal regions or on plateaus where many solutions are equally fit.
 
+### The 7-Eleven problem 
+A customer walked into a 7-11 store and decided
+to buy four items. When he brought his items
+to the check-out counter, the cashier rang in
+the purchases and told the customer that the cost was $7.11.
+The customer was curious that the cost of his
+items was the same as the store name, so he asked
+the clerk how he came to that price. The clerk
+responded that he had simply multiplied the prices
+of the four individual items. The customer protested!
+He insisted that the four prices should have been added, not multiplied.
+The clerk said that it was okay with him, but, that the total was still the same: exactly $7.11.
+
+What were the prices of the four items? 
+
 ## Simulated Annealing
 Probabilistic technique for approximating the global optimum of a given function. Specifically, it is a metaheuristic to approximate global optimization in a large search space for an optimization problem. 
 
