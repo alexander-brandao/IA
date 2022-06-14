@@ -31,3 +31,5 @@ What were the prices of the items?
 ## Simulated Annealing
 Probabilistic technique for approximating the global optimum of a given function. Specifically, it is a metaheuristic to approximate global optimization in a large search space for an optimization problem. 
 
+## A genetic algorithm 
+is a search heuristic that is inspired by Charles Darwin's theory of natural evolution. This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation.
